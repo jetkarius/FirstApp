@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             string MyName;
-            MyName = "Yevgeny";
+            MyName = "My name is Yevgeny";
             Console.WriteLine(MyName);
         }
     }
